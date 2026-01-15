@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+groq
+pydantic
+sentence-transformers
+faiss-cpu
+numpy
+python-multipart
+jinja2
+pypdf2
+streamlit
+pyttsx3
+
+
